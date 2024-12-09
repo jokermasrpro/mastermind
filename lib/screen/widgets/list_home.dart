@@ -20,7 +20,7 @@ class listHome extends StatelessWidget {
                   borderRadius: BorderRadius.circular(10)),
             ),
             Container(
-              margin: EdgeInsets.all(5),
+              margin: const EdgeInsets.all(5),
               width: 45,
               height: 45,
               decoration: BoxDecoration(
